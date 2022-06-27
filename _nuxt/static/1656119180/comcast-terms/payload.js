@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/comcast-terms", {data:[{}],fetch:{},mutations:void 0});

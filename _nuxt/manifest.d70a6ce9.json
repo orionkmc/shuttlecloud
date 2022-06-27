@@ -1,0 +1,10 @@
+{
+  "name": "shuttlecloud",
+  "short_name": "shuttlecloud",
+  "description": "## Build Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
