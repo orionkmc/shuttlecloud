@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/shuttlecloud-hushmail-terms", {data:[{}],fetch:{},mutations:void 0});

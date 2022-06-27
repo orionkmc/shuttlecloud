@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/shuttlecloud-gmail-privacy", {data:[{}],fetch:{},mutations:void 0});
