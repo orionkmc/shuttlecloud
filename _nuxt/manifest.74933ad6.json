@@ -3,7 +3,7 @@
   "short_name": "shuttlecloud",
   "description": "## Build Setup",
   "icons": [],
-  "start_url": "shuttlecloud/?standalone=true",
+  "start_url": "/shuttlecloud/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "en"
